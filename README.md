@@ -1,24 +1,112 @@
-# 💫 About Me:
-🔭 I'm currently working on → Building multi-agent systems & multimodal AI apps; live projects: RAG AI Chatbot, GitHub Portfolio Analyzer, Xavier AI Assistant<br><br>🌱 I'm currently learning → LLM fine-tuning, open-source models via HuggingFace & Ollama, advanced agentic architectures<br><br>👯 I'm looking to collaborate on → Agentic systems, LLM-powered tools, AI/ML open source projects<br><br>🤝 I'm looking for help with → Production LLM fine-tuning, scalable multi-agent pipelines<br><br>👨‍💻 All of my projects are available at → https://github.com/Sharda2004196<br><br>💬 Ask me about → RAG pipelines, Agentic frameworks (LangChain, LangGraph), MCP, AI Agents, ML/DL, Python<br><br>📫 How to reach me → www.linkedin.com/in/sharda-vatsal-bhat-73b037295 or shardavatsalbhat@gmail.com<br><br>⚡ Fun fact → Final-year AI & DS student shipping real agentic AI apps before graduation<br><br>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Sharda Vatsal Bhat</h1>
+<h3 align="center">Agentic AI Engineer</h3>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Sharda2004196">
+    <img src="https://komarev.com/ghpvc/?username=Sharda2004196&label=Profile%20views&color=00FFFF&style=flat-square" alt="Sharda2004196's profile views" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
+
+## 📌 About Me
+- 🔹Building multi-agent systems & multimodal AI apps; live projects: RAG AI Chatbot, GitHub Portfolio Analyzer 💡
+- 🔹Looking to collaborate on Agentic systems, LLM-powered tools, AI/ML open-source projects
+- 🔹Ask me about → RAG pipelines, Agentic frameworks (Lang chain, Lang Graph, Google ADK), MCP, AI Agents, ML/DL, Python 💬
+- 🔹 Final-year AI & DS student shipping real agentic AI apps before graduation 🚀
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sharda Vatsal Bhat) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shardavatsalbhat@gmail.com) 
+## 🧠 My Focus Areas
+- 🔹Agentic AI Systems
+- 🔹AI Agents & Multi-Agent Workflows
+- 🔹Large Language Models (LLMs)
+- 🔹Retrieval-Augmented Generation (RAG)
+- 🔹AI Automation
+- 🔹Prompt Engineering
+- 🔹Generative AI Applications
+- 🔹ML Ops & AI Deployment
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Sharda2004196&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Sharda2004196&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sharda2004196&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sharda2004196&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/Sharda2004196">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sharda2004196&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Sharda2004196's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=Sharda2004196&theme=radical&hide_border=true&cache_seconds=86400" alt="Sharda2004196's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Sharda2004196&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Sharda Vatsal Bhat's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Sharda2004196&theme=radical&radius=10" alt="Sharda2004196's Activity Graph" />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sharda2004196&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=Sharda2004196&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
+
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="40" />
+
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" />
+
+</p>
+
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sharda2004196">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sharda2004196&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+![Top language](https://stats.pphat.top/languages?username=Sharda2004196)
+<br/>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="www.linkedin.com/in/sharda-vatsal-bhat-73b037295"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Sharda Vatsal Bhat's LinkedIn"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:shardavatsalbhat@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Sharda Vatsal Bhat's Email"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/9106006606713"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+</p>
+
+## 💬 Quote
+> Building AI agents that reason, plan, and execute...
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
+</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
