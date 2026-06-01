@@ -10,21 +10,21 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- 🔹Building multi-agent systems & multimodal AI apps; live projects: RAG AI Chatbot, GitHub Portfolio Analyzer 💡
-- 🔹Looking to collaborate on Agentic systems, LLM-powered tools, AI/ML open-source projects
-- 🔹Ask me about → RAG pipelines, Agentic frameworks (Lang chain, Lang Graph, Google ADK), MCP, AI Agents, ML/DL, Python 💬
-- 🔹 Final-year AI & DS student shipping real agentic AI apps before graduation 🚀
+- Building multi-agent systems & multimodal AI apps; live projects: RAG AI Chatbot, GitHub Portfolio Analyzer 💡
+- Looking to collaborate on Agentic systems, LLM-powered tools, AI/ML open-source projects
+- Ask me about → RAG pipelines, Agentic frameworks (Lang chain, Lang Graph, Google ADK), MCP, AI Agents, ML/DL, Python 💬
+-  Final-year AI & DS student shipping real agentic AI apps before graduation 🚀
 
 
 ## 🧠 My Focus Areas
-- 🔹Agentic AI Systems
-- 🔹AI Agents & Multi-Agent Workflows
-- 🔹Large Language Models (LLMs)
-- 🔹Retrieval-Augmented Generation (RAG)
-- 🔹AI Automation
-- 🔹Prompt Engineering
-- 🔹Generative AI Applications
-- 🔹ML Ops & AI Deployment
+- Agentic AI Systems
+- AI Agents & Multi-Agent Workflows
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Automation
+- Prompt Engineering
+- Generative AI Applications
+- ML Ops & AI Deployment
 
 
 ## 📊 GitHub Stats & Trophies
