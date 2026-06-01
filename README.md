@@ -13,7 +13,7 @@
 - Building multi-agent systems & multimodal AI apps; live projects: RAG AI Chatbot, GitHub Portfolio Analyzer 💡
 - Looking to collaborate on Agentic systems, LLM-powered tools, AI/ML open-source projects
 - Ask me about → RAG pipelines, Agentic frameworks (Lang chain, Lang Graph, Google ADK), MCP, AI Agents, ML/DL, Python 💬
--  Final-year AI & DS student shipping real agentic AI apps before graduation 🚀
+- Final-year AI & DS student shipping real agentic AI apps before graduation 🚀
 
 
 ## 🧠 My Focus Areas
@@ -105,7 +105,7 @@
 </picture>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
 
 
